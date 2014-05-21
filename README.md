@@ -28,7 +28,9 @@ before accessing your application.
 
 ## Me
 
-(http://images.cheezburger.com/imagestore/2011/6/2/6557c073-a718-4099-90a5-67b1d3f0206e.jpg "A Good Guy")
+A really Good Guy
+
+![Image of Good Guy Greg](http://images.cheezburger.com/imagestore/2011/6/2/6557c073-a718-4099-90a5-67b1d3f0206e.jpg "A Good Guy")
 
 ## Usage
 
